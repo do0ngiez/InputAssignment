@@ -1,0 +1,15 @@
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\bin\Debug\net8.0\InputAssignment.exe
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\bin\Debug\net8.0\InputAssignment.deps.json
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\bin\Debug\net8.0\InputAssignment.runtimeconfig.json
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\bin\Debug\net8.0\InputAssignment.dll
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\bin\Debug\net8.0\InputAssignment.pdb
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.AssemblyInfoInputs.cache
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.AssemblyInfo.cs
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.sourcelink.json
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.dll
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\refint\InputAssignment.dll
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.pdb
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\InputAssignment.genruntimeconfig.cache
+C:\Users\grace\Desktop\C#_Assignments\InputAssignment\obj\Debug\net8.0\ref\InputAssignment.dll
